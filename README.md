@@ -11,7 +11,7 @@ You can install it with the following command in your terminal
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-2. Use this command to clone `$ git clone
+2. Use this command to clone `$ git clone`
 
 * This will clone the repository into your local folder
 3. __Enjoy :)__:)__
@@ -19,7 +19,7 @@ To access this project on your local files, you can clone it using these steps
 1. HTML
 2. CSS
 3. Git
-4. bootstrap
+4. Bootstrap
 ### Live Site
 View [Live]()
 ### License
